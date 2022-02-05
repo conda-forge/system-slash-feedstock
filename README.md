@@ -55,6 +55,15 @@ It is possible to list all of the versions of `system-slash` available on your p
 conda search system-slash --channel conda-forge
 ```
 
+## How to import the module:
+```python
+from SystemSlash.SystemSlash import slash
+
+system = slash()
+
+print(system)
+```
+
 
 About conda-forge
 =================
