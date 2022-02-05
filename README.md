@@ -33,6 +33,8 @@ Current release info
 | --- | --- | --- | --- |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-system--slash-green.svg)](https://anaconda.org/conda-forge/system-slash) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/system-slash.svg)](https://anaconda.org/conda-forge/system-slash) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/system-slash.svg)](https://anaconda.org/conda-forge/system-slash) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/system-slash.svg)](https://anaconda.org/conda-forge/system-slash) |
 
+[![Build Status](https://travis-ci.org/sujitmandal/system-slash.svg?branch=main)](https://travis-ci.org/sujitmandal/system-slash) [![GitHub license](https://img.shields.io/github/license/sujitmandal/system-slash)](https://github.com/sujitmandal/system-slash/blob/main/LICENSE) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/system-slash) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/system-slash) ![PyPI](https://img.shields.io/pypi/v/system-slash)  [![Conda Version](https://img.shields.io/conda/vn/conda-forge/system-slash.svg)](https://anaconda.org/conda-forge/system-slash)  [![Anaconda-Server Badge](https://anaconda.org/conda-forge/system-slash/badges/version.svg)](https://anaconda.org/conda-forge/system-slash) [![Anaconda-Server Badge](https://anaconda.org/conda-forge/system-slash/badges/installer/conda.svg)](https://conda.anaconda.org/conda-forge) [![Anaconda-Server Badge](https://anaconda.org/conda-forge/system-slash/badges/platforms.svg)](https://anaconda.org/conda-forge/system-slash) 
+
 Installing system-slash
 =======================
 
