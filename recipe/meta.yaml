@@ -10,18 +10,20 @@ source:
   sha256: b4172ea0d8cb8d573b3fdc254fe21c7b117324c249dd05d4c4f91fdbc4254f33
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:
   host:
     - pip
-    - python >=3.6
+    - python {{ python_min }}
   run:
-    - python >=3.6
+    - python >={{ python_min }}
 
 test:
+  requires:
+    - python {{ python_min }}
   imports:
     - SystemSlash
 
